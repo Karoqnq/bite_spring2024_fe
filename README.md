@@ -1,1 +1,1 @@
-Repository for the Front-End Course
+Repository for Front-End Programming Course
